@@ -3,10 +3,15 @@
     <h1>Welcome!! Saidemy DevOps Registration Form!!!</h1>
     <p>Please fill in this form for registration!!!</p>
     <hr>
-    <br>
+    <br> 
 
     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+    <br>
+
+
+    <label for="Aadhar"><b>Aadhar</b></label>
+    <input type="text" placeholder="Enter Aadhar" name="Aadhar" id="Aadhar" required>
     <br>
 
 
