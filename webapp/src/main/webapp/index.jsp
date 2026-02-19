@@ -5,8 +5,13 @@
     <hr>
     <br> 
 
-    <label for="Name"><b>Name</b></label>
+     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+    <br>
+
+
+    <label for="Mother"><b>Mother Name</b></label>
+    <input type="text" placeholder="Mother Name" name="Mother" id="Mother" required>
     <br>
 
 
