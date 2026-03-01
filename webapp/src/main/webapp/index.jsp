@@ -26,10 +26,6 @@
     <input type="text" placeholder="Sister Name" name="Sister" id="Sister" required>
     <br>
 
-    <label for="Brother"><b>Spouse Name</b></label>
-    <input type="text" placeholder="Spouse Name" name="Spouse" id="Spouse" required>
-    <br>
-
 
     <label for="Aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter Aadhar" name="Aadhar" id="Aadhar" required>
